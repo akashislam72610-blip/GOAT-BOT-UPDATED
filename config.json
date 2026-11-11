@@ -25,6 +25,7 @@
   },
   "adminBot": [
     "61594856876388"
+    "61595420798529
   ],
   "devUsers": [
     "61593683823942"
@@ -58,7 +59,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "🎀♡nx λi♡🦋くめ",
+  "nickNameBot": "🎀♡HiNaTa Bɓ'z♡🦋くめ",
   "prefix": ".",
   "usePrefix": {
     "enable": true,
